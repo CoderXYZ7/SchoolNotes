@@ -1,0 +1,16 @@
+00;nessuno
+01;Beato;Federico
+02;Bojagic;Suad
+03;Cepach;Aleksei
+04;Fabris;Luca
+05;Fonzar;Manuel
+06;Iovine;Antonio
+07;Mersimoski;Amar
+08;Osmani;Aris
+09;Peselli;Federico
+10;Roggio;Antonio
+11;Rossetto;Yuri
+12;Soufiane;Sami
+13;Taverna;Leonardo
+14;Toniolo;Daniele
+15;Turello;Matteo

@@ -1,0 +1,16 @@
+Alliterazione;10
+Anadiplosi;15
+Anafora;15
+Anastrofe;15
+Antonomasia;15
+Chiasmo;15
+Climax;15
+Eufemismo;15
+Iperbole;15
+Litote;15
+Metafora;15
+Metonimia;15
+Ossimoro;15
+Personificazione;15
+Sineddoche;15
+Sinestesia;15

@@ -1,0 +1,9 @@
+00;nessuno
+01;Rossi;Marco
+02;Verdi;Giovanni
+03;Marroni;Luca
+04;Fidato;Mattia
+05;Levi;Manuel
+06;Toccarello;Gigi
+07;Venturi;Sofia
+08;Martini;Lucia
