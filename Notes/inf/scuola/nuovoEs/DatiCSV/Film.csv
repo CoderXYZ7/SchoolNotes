@@ -1,0 +1,161 @@
+CodFilm,Titolo,AnnoProduzione,Nazionalita,Regista,Genere
+1,Fight Club,1999,Stati Uniti,David Fincher,Drammatico
+2,Ocean's Eleven,2001,Stati Uniti,Steven Soderbergh,Azione
+3,Titanic,1997,Stati Uniti,James Cameron,Romantico
+4,The Departed,2006,Stati Uniti,Martin Scorsese,Thriller
+5,Inception,2010,Stati Uniti,Christopher Nolan,Fantascienza
+6,The Godfather,1972,Stati Uniti,Francis Ford Coppola,Crime
+7,La La Land,2016,Stati Uniti,Damien Chazelle,Musicale
+8,The Shawshank Redemption,1994,Stati Uniti,Frank Darabont,Drammatico
+9,The Dark Knight,2008,Stati Uniti,Christopher Nolan,Azione
+10,Pulp Fiction,1994,Stati Uniti,Quentin Tarantino,Crime
+11,Mad Max: Fury Road,2015,Australia,George Miller,Azione
+12,The Great Gatsby,2013,Australia,Baz Luhrmann,Drammatico
+13,Moulin Rouge!,2001,Australia,Baz Luhrmann,Musicale
+14,Gladiator,2000,Stati Uniti,Ridley Scott,Azione
+15,The Matrix,1999,Stati Uniti,Lana e Lilly Wachowski,Fantascienza
+16,The Lord of the Rings: The Return of the King,2003,Nuova Zelanda,Peter Jackson,Fantasy
+17,The Lord of the Rings: The Fellowship of the Ring,2001,Nuova Zelanda,Peter Jackson,Fantasy
+18,The Lord of the Rings: The Two Towers,2002,Nuova Zelanda,Peter Jackson,Fantasy
+19,The Hobbit: An Unexpected Journey,2012,Nuova Zelanda,Peter Jackson,Fantasy
+20,The Hobbit: The Desolation of Smaug,2013,Nuova Zelanda,Peter Jackson,Fantasy
+21,The Hobbit: The Battle of the Five Armies,2014,Nuova Zelanda,Peter Jackson,Fantasy
+22,Harry Potter and the Philosopher's Stone,2001,Regno Unito,Chris Columbus,Fantasy
+23,Harry Potter and the Chamber of Secrets,2002,Regno Unito,Chris Columbus,Fantasy
+24,Harry Potter and the Prisoner of Azkaban,2004,Regno Unito,Alfonso Cuarón,Fantasy
+25,Harry Potter and the Goblet of Fire,2005,Regno Unito,Mike Newell,Fantasy
+26,Harry Potter and the Order of the Phoenix,2007,Regno Unito,David Yates,Fantasy
+27,Harry Potter and the Half-Blood Prince,2009,Regno Unito,David Yates,Fantasy
+28,Harry Potter and the Deathly Hallows – Part 1,2010,Regno Unito,David Yates,Fantasy
+29,Harry Potter and the Deathly Hallows – Part 2,2011,Regno Unito,David Yates,Fantasy
+30,The Silence of the Lambs,1991,Stati Uniti,Jonathan Demme,Thriller
+31,The Revenant,2015,Stati Uniti,Alejandro González Iñárritu,Avventura
+32,The Aviator,2004,Stati Uniti,Martin Scorsese,Biografico
+33,The Wolf of Wall Street,2013,Stati Uniti,Martin Scorsese,Biografico
+34,Catch Me If You Can,2002,Stati Uniti,Steven Spielberg,Biografico
+35,The Terminal,2004,Stati Uniti,Steven Spielberg,Commedia
+36,Cast Away,2000,Stati Uniti,Robert Zemeckis,Avventura
+37,Philadelphia,1993,Stati Uniti,Jonathan Demme,Drammatico
+38,Toy Story,1995,Stati Uniti,John Lasseter,Animazione
+39,Toy Story 2,1999,Stati Uniti,John Lasseter,Animazione
+40,Toy Story 3,2010,Stati Uniti,Lee Unkrich,Animazione
+41,Up,2009,Stati Uniti,Pete Docter,Animazione
+42,Finding Nemo,2003,Stati Uniti,Andrew Stanton,Animazione
+43,Monsters Inc.,2001,Stati Uniti,Pete Docter,Animazione
+44,Monsters University,2013,Stati Uniti,Dan Scanlon,Animazione
+45,Inside Out,2015,Stati Uniti,Pete Docter,Animazione
+46,Brave,2012,Stati Uniti,Mark Andrews e Brenda Chapman,Animazione
+47,Coco,2017,Stati Uniti,Lee Unkrich e Adrian Molina,Animazione
+48,Shrek,2001,Stati Uniti,Andrew Adamson e Vicky Jenson,Animazione
+49,Shrek 2,2004,Stati Uniti,Andrew Adamson Kelly Asbury e Conrad Vernon,Animazione
+50,Shrek the Third,2007,Stati Uniti,Chris Miller e Raman Hui,Animazione
+51,Shrek Forever After,2010,Stati Uniti,Mike Mitchell,Animazione
+52,Spirited Away,2001,Giappone,Hayao Miyazaki,Animazione
+53,Howl's Moving Castle,2004,Giappone,Hayao Miyazaki,Animazione
+54,My Neighbor Totoro,1988,Giappone,Hayao Miyazaki,Animazione
+55,Princess Mononoke,1997,Giappone,Hayao Miyazaki,Animazione
+56,Ponyo,2008,Giappone,Hayao Miyazaki,Animazione
+57,Castle in the Sky,1986,Giappone,Hayao Miyazaki,Animazione
+58,Kiki's Delivery Service,1989,Giappone,Hayao Miyazaki,Animazione
+59,Grave of the Fireflies,1988,Giappone,Isao Takahata,Animazione
+60,The Secret World of Arrietty,2010,Giappone,Hiromasa Yonebayashi,Animazione
+61,Toy Story 4,2019,Stati Uniti,Josh Cooley,Animazione
+62,Finding Dory,2016,Stati Uniti,Andrew Stanton,Animazione
+63,Cars,2006,Stati Uniti,John Lasseter,Animazione
+64,Ratatouille,2007,Stati Uniti,Brad Bird,Animazione
+65,WALL-E,2008,Stati Uniti,Andrew Stanton,Animazione
+66,Tangled,2010,Stati Uniti,Nathan Greno e Byron Howard,Animazione
+67,Moana,2016,Stati Uniti,Ron Clements e John Musker,Animazione
+68,Frozen,2013,Stati Uniti,Chris Buck e Jennifer Lee,Animazione
+69,Frozen II,2019,Stati Uniti,Chris Buck e Jennifer Lee,Animazione
+70,The Lion King,1994,Stati Uniti,Roger Allers e Rob Minkoff,Animazione
+71,Aladdin,1992,Stati Uniti,Ron Clements e John Musker,Animazione
+72,Beauty and the Beast,1991,Stati Uniti,Gary Trousdale e Kirk Wise,Animazione
+73,Mulan,1998,Stati Uniti,Tony Bancroft e Barry Cook,Animazione
+74,The Little Mermaid,1989,Stati Uniti,Ron Clements e John Musker,Animazione
+75,Toy Story,1995,Stati Uniti,John Lasseter,Animazione
+76,Toy Story 2,1999,Stati Uniti,John Lasseter,Animazione
+77,Toy Story 3,2010,Stati Uniti,Lee Unkrich,Animazione
+78,Up,2009,Stati Uniti,Pete Docter,Animazione
+79,Finding Nemo,2003,Stati Uniti,Andrew Stanton,Animazione
+80,Monsters Inc.,2001,Stati Uniti,Pete Docter,Animazione
+81,Inside Out,2015,Stati Uniti,Pete Docter,Animazione
+82,Coco,2017,Stati Uniti,Lee Unkrich e Adrian Molina,Animazione
+83,Shrek,2001,Stati Uniti,Andrew Adamson e Vicky Jenson,Animazione
+84,Shrek 2,2004,Stati Uniti,Andrew Adamson Kelly Asbury e Conrad Vernon,Animazione
+85,Shrek the Third,2007,Stati Uniti,Chris Miller e Raman Hui,Animazione
+86,Shrek Forever After,2010,Stati Uniti,Mike Mitchell,Animazione
+87,Spirited Away,2001,Giappone,Hayao Miyazaki,Animazione
+88,Howl's Moving Castle,2004,Giappone,Hayao Miyazaki,Animazione
+89,My Neighbor Totoro,1988,Giappone,Hayao Miyazaki,Animazione
+90,Princess Mononoke,1997,Giappone,Hayao Miyazaki,Animazione
+91,Ponyo,2008,Giappone,Hayao Miyazaki,Animazione
+92,Castle in the Sky,1986,Giappone,Hayao Miyazaki,Animazione
+93,Kiki's Delivery Service,1989,Giappone,Hayao Miyazaki,Animazione
+94,Grave of the Fireflies,1988,Giappone,Isao Takahata,Animazione
+95,The Secret World of Arrietty,2010,Giappone,Hiromasa Yonebayashi,Animazione
+96,Toy Story 4,2019,Stati Uniti,Josh Cooley,Animazione
+97,Finding Dory,2016,Stati Uniti,Andrew Stanton,Animazione
+98,Cars,2006,Stati Uniti,John Lasseter,Animazione
+99,Ratatouille,2007,Stati Uniti,Brad Bird,Animazione
+100,WALL-E,2008,Stati Uniti,Andrew Stanton,Animazione
+101,The Social Network,2010,Stati Uniti,David Fincher,Biografico
+102,The King's Speech,2010,Regno Unito,Tom Hooper,Biografico
+103,Bohemian Rhapsody,2018,Regno Unito,Bryan Singer,Biografico
+104,A Beautiful Mind,2001,Stati Uniti,Ron Howard,Biografico
+105,The Theory of Everything,2014,Regno Unito,James Marsh,Biografico
+106,The Imitation Game,2014,Regno Unito,Morten Tyldum,Biografico
+107,Goodfellas,1990,Stati Uniti,Martin Scorsese,Crime
+108,Casino,1995,Stati Uniti,Martin Scorsese,Crime
+109,Scarface,1983,Stati Uniti,Brian De Palma,Crime
+110,Heat,1995,Stati Uniti,Michael Mann,Crime
+111,The Godfather: Part II,1974,Stati Uniti,Francis Ford Coppola,Crime
+112,The Godfather: Part III,1990,Stati Uniti,Francis Ford Coppola,Crime
+113,Reservoir Dogs,1992,Stati Uniti,Quentin Tarantino,Crime
+114,Once Upon a Time in America,1984,Stati Uniti,Sergio Leone,Crime
+115,Heat,1995,Stati Uniti,Michael Mann,Crime
+116,The Departed,2006,Stati Uniti,Martin Scorsese,Crime
+117,Goodfellas,1990,Stati Uniti,Martin Scorsese,Crime
+118,Reservoir Dogs,1992,Stati Uniti,Quentin Tarantino,Crime
+119,Once Upon a Time in America,1984,Stati Uniti,Sergio Leone,Crime
+120,Pulp Fiction,1994,Stati Uniti,Quentin Tarantino,Crime
+121,The Shawshank Redemption,1994,Stati Uniti,Frank Darabont,Drammatico
+122,Forrest Gump,1994,Stati Uniti,Robert Zemeckis,Drammatico
+123,Schindler's List,1993,Stati Uniti,Steven Spielberg,Drammatico
+124,Good Will Hunting,1997,Stati Uniti,Gus Van Sant,Drammatico
+125,American Beauty,1999,Stati Uniti,Sam Mendes,Drammatico
+126,The Green Mile,1999,Stati Uniti,Frank Darabont,Drammatico
+127,The Pursuit of Happyness,2006,Stati Uniti,Gabriele Muccino,Drammatico
+128,Rain Man,1988,Stati Uniti,Barry Levinson,Drammatico
+129,Million Dollar Baby,2004,Stati Uniti,Clint Eastwood,Drammatico
+130,Crash,2004,Stati Uniti,Paul Haggis,Drammatico
+131,A Star Is Born,2018,Stati Uniti,Bradley Cooper,Drammatico
+132,Bohemian Rhapsody,2018,Regno Unito,Bryan Singer,Drammatico
+133,La La Land,2016,Stati Uniti,Damien Chazelle,Musicale
+134,Les Misérables,2012,Regno Unito,Tom Hooper,Musicale
+135,Mamma Mia!,2008,Regno Unito,Phyllida Lloyd,Musicale
+136,The Greatest Showman,2017,Stati Uniti,Michael Gracey,Musicale
+137,Chicago,2002,Stati Uniti,Rob Marshall,Musicale
+138,West Side Story,1961,Stati Uniti,Jerome Robbins e Robert Wise,Musicale
+139,Grease,1978,Stati Uniti,Randal Kleiser,Musicale
+140,Beauty and the Beast,2017,Stati Uniti,Bill Condon,Musicale
+141,The Sound of Music,1965,Stati Uniti,Robert Wise,Musicale
+142,Moulin Rouge!,2001,Australia,Baz Luhrmann,Musicale
+143,The King's Speech,2010,Regno Unito,Tom Hooper,Biografico
+144,Darkest Hour,2017,Regno Unito,Joe Wright,Biografico
+145,Milk,2008,Stati Uniti,Gus Van Sant,Biografico
+146,Selma,2014,Stati Uniti,Ava DuVernay,Biografico
+147,Walk the Line,2005,Stati Uniti,James Mangold,Biografico
+148,The Iron Lady,2011,Regno Unito,Phyllida Lloyd,Biografico
+149,Frida,2002,Messico,Julie Taymor,Biografico
+150,Gandhi,1982,Regno Unito,Richard Attenborough,Biografico
+151,Ray,2004,Stati Uniti,Taylor Hackford,Biografico
+152,Capote,2005,Stati Uniti,Bennett Miller,Biografico
+153,American Gangster,2007,Stati Uniti,Ridley Scott,Biografico
+154,Catch Me If You Can,2002,Stati Uniti,Steven Spielberg,Biografico
+155,The Aviator,2004,Stati Uniti,Martin Scorsese,Biografico
+156,Schindler's List,1993,Stati Uniti,Steven Spielberg,Biografico
+157,Lincoln,2012,Stati Uniti,Steven Spielberg,Biografico
+158,The Pianist,2002,Polonia,Roman Polanski,Biografico
+159,The Imitation Game,2014,Regno Unito,Morten Tyldum,Biografico
+160,127 Hours,2010,Stati Uniti,Danny Boyle,Biografico
